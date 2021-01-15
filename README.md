@@ -47,5 +47,3 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 
 <img src ="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
 
-<img src ="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-
