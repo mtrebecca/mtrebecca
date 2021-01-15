@@ -15,4 +15,4 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 ##  🚀Skills
 
 
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />]
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
