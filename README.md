@@ -13,7 +13,7 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtrebecca&layout=compact&langs_count=8&theme=dracula"/>
 
 
-<br/><br/>
+<br/>
 
 <div>
 <a href = "mailto: mtrebeccamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
