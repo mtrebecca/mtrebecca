@@ -22,9 +22,10 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
   <img align="center" alt="Rbk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rbk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rbk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rbk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<a href="https://www.flaticon.com/br/autores/phatplus" title="phatplus">phatplus</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
 </div>
 
+<br/><br/>
 
 <div>
 <a href = "mailto: mtrebeccamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
