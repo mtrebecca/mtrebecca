@@ -1,4 +1,4 @@
-## **Hey** <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
+## **Hey** <img align="center" alt="Rbk-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
 
 My name is Rebeca Martins, I'm Developer 👩‍💻, passionate about technology and always looking to study more about this technological world. 
 
@@ -8,21 +8,10 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 
 ##### 📍 From João Pessoa, PB
 ##### 👩‍💻 Intern at Softcom Tecnologia
+<a href="https://github.com/mtrebecca">
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtrebecca&layout=compact&langs_count=8&theme=dracula"/>
 
-
-
-
-
-##  🚀Skills
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rbk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rbkafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rbk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rbk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rbk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
 <br/><br/>
 
