@@ -17,8 +17,20 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 
 <br/>
 
-<div>
-<a href = "mailto: mtrebeccamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rebecca-martins-silva9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a target="_blank" href="https://www.linkedin.com/in/rebecca-martins-silva9">
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5583988676969">
+  <img align="left" alt="Whatsapp" width="30px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/whatsapp_socialnetwork_17360.png" />
+</a>
+<a target="_blank" href="mailto: mtrebeccamartins@gmail.com">
+  <img align="left" alt="Gmail" width="30px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
+</a>
+<a target="_blank" href="https://app.rocketseat.com.br/me/lucas-de-azevedo-godoi-lomba-1567257784">
+  <img align="left" alt="Gmail" width="30px" src="https://media.graphcms.com/7APhXSonSk6Aox5Fk4My" />
+</a>
+</br>  
+  
+  
 <a href="https://instagram.com/mtrebecca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
