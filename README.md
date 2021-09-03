@@ -26,11 +26,3 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 <a target="_blank" href="mailto: mtrebeccamartins@gmail.com">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
 </a>
-<a target="_blank" href="https://app.rocketseat.com.br/me/lucas-de-azevedo-godoi-lomba-1567257784">
-  <img align="left" alt="Gmail" width="30px" src="https://media.graphcms.com/7APhXSonSk6Aox5Fk4My" />
-</a>
-</br>  
-  
-  
-<a href="https://instagram.com/mtrebecca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
