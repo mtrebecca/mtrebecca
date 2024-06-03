@@ -12,7 +12,6 @@ I'm great at solving problems and I'm always willing to embrace our challenges.
 
 
 ##### 📍 From João Pessoa, PB
-##### 👩‍💻 Developer Compasso Uol
 <div>
   <a href="https://github.com/mtrebecca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrebecca&layout=compact&langs_count=8&theme=dracula"/>
